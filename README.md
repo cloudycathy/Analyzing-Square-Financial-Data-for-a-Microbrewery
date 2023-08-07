@@ -9,7 +9,7 @@ The following tools are used for this project:
 
 **NOTEBOOKS**
 
-- [Data Cleaning]()
+- [Data Cleaning](Notebooks/Data_Cleaning.ipynb)
 - [Exploratory Data Analysis]()
 - [Recency, Frequency, and Monetary value tables]()
 - [Modeling]()
