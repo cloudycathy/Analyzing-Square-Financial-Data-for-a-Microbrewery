@@ -1,2 +1,18 @@
 # Analyzing-Square-Financial-Data-for-a-Microbrewery
-Using Square financial data to analyze customer churn, product performance, and project future sales.
+Using Square financial data to analyze customer churn, product performance, and project future sales. As the data for this project is confidential, the data will not be furnished. Samples of plots will be provided in the 'Example Plots' folder.
+
+The following tools are used for this project:
+- Pandas
+- Scikit-learn
+- -Matplotlib
+- -Seaborn
+
+**NOTEBOOKS**
+
+- [Data Cleaning]()
+- [Exploratory Data Analysis]()
+- [Recency, Frequency, and Monetary value tables]()
+- [Modeling]()
+- [Conclusions]()
+- -[Example Plots]()
+
