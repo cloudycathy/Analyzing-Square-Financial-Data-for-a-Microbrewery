@@ -4,8 +4,8 @@ Using Square financial data to analyze customer churn, product performance, and 
 The following tools are used for this project:
 - Pandas
 - Scikit-learn
-- -Matplotlib
-- -Seaborn
+- Matplotlib
+- Seaborn
 
 **NOTEBOOKS**
 
@@ -14,5 +14,5 @@ The following tools are used for this project:
 - [Recency, Frequency, and Monetary value tables]()
 - [Modeling]()
 - [Conclusions]()
-- -[Example Plots]()
+- [Example Plots]()
 
