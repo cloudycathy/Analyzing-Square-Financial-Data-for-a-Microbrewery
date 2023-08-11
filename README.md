@@ -6,6 +6,7 @@ The following tools are used for this project:
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- Plotly
 
 **NOTEBOOKS**
 
