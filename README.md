@@ -14,5 +14,5 @@ The following tools are used for this project:
 - [Recency, Frequency, and Monetary value tables](Notebooks/Recency_Frequency_Monetary_Value_Tables.ipynb)
 - [Modeling]()
 - [Conclusions]()
-- [Example Plots]()
+- [Sample Plots](Sample-Plots)
 
