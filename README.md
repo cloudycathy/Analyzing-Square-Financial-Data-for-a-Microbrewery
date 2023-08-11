@@ -10,8 +10,8 @@ The following tools are used for this project:
 **NOTEBOOKS**
 
 - [Data Cleaning](Notebooks/Data_Cleaning.ipynb)
-- [Exploratory Data Analysis]()
-- [Recency, Frequency, and Monetary value tables]()
+- [Exploratory Data Analysis](Notebooks/EDA.ipynb)
+- [Recency, Frequency, and Monetary value tables](Notebooks/Recency, Frequency, and Monetary Value Tables.ipynb)
 - [Modeling]()
 - [Conclusions]()
 - [Example Plots]()
