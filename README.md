@@ -6,13 +6,13 @@ The following tools are used for this project:
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- Plotly
 
 **NOTEBOOKS**
 
-- [Data Cleaning]()
-- [Exploratory Data Analysis]()
-- [Recency, Frequency, and Monetary value tables]()
-- [Modeling]()
-- [Conclusions]()
-- [Example Plots]()
+- [Data Cleaning](Notebooks/Data_Cleaning.ipynb)
+- [Exploratory Data Analysis](Notebooks/EDA.ipynb)
+- [Recency, Frequency, and Monetary value tables](Notebooks/Recency_Frequency_Monetary_Value_Tables.ipynb)
+- [Modeling](Notebooks/Modeling.ipynb)
+- [Sample Plots](Sample-Plots)
 
